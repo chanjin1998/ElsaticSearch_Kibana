@@ -1,11 +1,10 @@
-import logo from './logo.svg';
 import './App.css';
-import KibanaDashboard from './KibanaDashboard';
+import Dashboard from './KibanaDashboard';
 function App() {
   return (
     <div>
-      <h1>Kibana Dashboard</h1>
-      <KibanaDashboard />
+      {/* <h1>Kibana Dashboard</h1> */}
+      <Dashboard />
     </div>
   );
     
