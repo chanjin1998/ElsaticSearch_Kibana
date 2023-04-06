@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 // API 토큰
-const API_KEY = 'NE9wWVVZY0IwVVk3QXQzVTBLY0c6RFlYV0RqdXJUYkdkdnRsclp0UWVCdw==';
+const API_KEY = 'NE9wWVVZY0IwVVk3QXQzVTBLY0c6RFlYV0RqdXJUYkdkdnRsclp0UWVCd&&&&';
 
 // REST API 호출
 export const fetchSavedObjects = () => {
